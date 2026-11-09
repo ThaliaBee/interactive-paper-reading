@@ -1,0 +1,4 @@
+interface:
+  display_name: "计算机论文阅读笔记"
+  short_description: "阅读计算机科学论文，维护中文 Markdown 笔记、术语、词汇和相关工作"
+  default_prompt: "使用 $paper-reading 为指定论文生成空白笔记，填写基本信息，其余栏目留空。"
