@@ -5,7 +5,7 @@
 /ref/
 /textbook/
 /tmp/
-/prompts/人工原文/
+/prompts/
 
 # 本地安装的 Skill 副本与 Codex 配置
 /.agents/
